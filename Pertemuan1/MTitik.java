@@ -1,3 +1,8 @@
+/* File      :Titik.java
+* Deskripsi : Class yang merepresentasikan titik pada koordinat kartesian
+* Author    : Tengku Muhamad Afif Alghomidy
+* Tanggal   : 21 - 02 - 2025
+*/
 package PBO.pertemuan1;
 
 public class MTitik{
